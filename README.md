@@ -1,2 +1,2 @@
-# AD_Library-
+# AD_Library
 include SchLib and PcbLib
